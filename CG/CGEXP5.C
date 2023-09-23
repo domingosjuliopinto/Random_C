@@ -1,4 +1,4 @@
-// program to change color of circle
+// a Program for Boundary Fill and Flood Fill Algorithm
 #include<stdio.h>
 #include<conio.h>
 #include<graphics.h>

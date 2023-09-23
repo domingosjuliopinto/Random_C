@@ -1,4 +1,4 @@
-// program to draw line
+// a program of Bresenham Line drawing Algorithm
 #include<stdio.h>
 #include<conio.h>
 #include<graphics.h>

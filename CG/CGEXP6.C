@@ -1,4 +1,4 @@
-// draw and fill polygon
+// a Program for Scan Line Polygon Fill Algorithm
 #include<stdio.h>
 #include<conio.h>
 #include<graphics.h>

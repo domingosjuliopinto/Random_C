@@ -1,3 +1,4 @@
+// a program of Midpoint Circle Algorithm
 #include<stdio.h>
 #include<conio.h>
 #include<graphics.h>

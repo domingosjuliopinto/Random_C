@@ -1,4 +1,4 @@
-// program to draw a line
+// a program of DDA Line Drawing Algorithm
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
